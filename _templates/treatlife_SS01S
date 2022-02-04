@@ -14,6 +14,8 @@ link3: https://www.banggood.com/TREATLIFE-SS01S-Single-Pole-2_4Ghz-Wi-Fi-Smart-L
 mlink: 
 ---
 
+Purchased 4 pack from amazon which had a MCU board dated 2021-01-13 and it had a WB3S making these not compatible with tasmota.
+
 Tuya-Convert **DID NOT WORK** on Jan 11, 2021, using the 4-pack of switches: https://www.amazon.com/gp/product/B07R4MFWCQ.
 
 Tuya-Convert worked on Dec 21, 2020, amazon Canada: https://www.amazon.ca/gp/product/B07R7PCCT9
